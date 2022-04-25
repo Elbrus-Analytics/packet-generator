@@ -16,4 +16,4 @@ COPY  commands.txt /squashfs-root
 
 WORKDIR /squashfs-root
 
-ENTRYPOINT ["/bin/bash"]
+ENTRYPOINT ["/squashfs-root/traffic.sh"]
