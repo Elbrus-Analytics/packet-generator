@@ -1,5 +1,5 @@
 # packet-generator
-Docker Container which is automatically generating Traffic. It tries to establish connections with various websites.
+Docker Container which is automatically generating Traffic. It tries to establish connections with various websites. This is achieved by using the application 'Packetsender'.
 
 ## features
 
